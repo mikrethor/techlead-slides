@@ -5,36 +5,71 @@ v0.1, 2021-01-18: first version
 ifndef::imagesdir[:imagesdir: images]
 ifndef::sourcedir[:sourcedir: ../../main/java]
 
+[NOTE.speaker]
+--
+Hello everyone. Thanks for joining me for this session.
+I hope that you will learn some tips today that will help you.
+--
+
 == About Me
 
-Xavier Bouclet - Tech Lead at National Bank of Canada and Jug leader
+Xavier Bouclet - Techlead at National Bank of Canada and one of the Montréal Jug leader
 
 https://mikrethor.github.io/blog/[Blog], Twitter : @XavierBouclet
 
+[NOTE.speaker]
+--
+My name is Xavier Bouclet. I have worked in IT for fourteen years mostly as a Java developer and now as a techlead.
+I currently work at National Bank of Canada and by the way we recruit in my team so don't hesitate to ping me.
+I am also a Montreal Jug leader.
+I write a blog about development and techlead stuff.
+And of course you can interact with me on Twitter.
+--
+
 === The Hard Life of a Techlead
 
-image::cover.png[width=33%]
+image::cover.png[width=25%]
 
 https://www.amazon.ca/-/fr/Xavier-Bouclet/e/B08RQKPM15/[The Hard Life of a Techlead]
 
-=== Formation audit
-
-Faire le site
-
-== What is a techlead ?
-
-The tech lead is a combination of the words * technical * and * leader *.
+1 Free copy to win : tweet with #thehardlifeofatechlead and #confoo.
 
 [NOTE.speaker]
 --
-He is the leader of the techniques in the group and the evolution of these techniques and practices in the group.
-He has lead form a technical point of view and co-lead the team as well with other roles (project manager, team lead ...).
+I like my techlead job so much that I decided 2 years ago to write about that.
+My goal is to help me exchange with people interested in leading tech teams.
+If you are interested by a free copy of the book you can tweet with #thehardlifeofatechlead and #confoo.
 --
 
-== Commons mistakes
+== What is a techlead ?
+
+The techlead is a combination of the words *technical* and *leader*.
+
+[NOTE.speaker]
+--
+The word techlead is a combination of the words technical/technics and leader.
+A leader is someone at the head of a group of people whose goal is to achieve a common goal.
+For the technical part, it means the techniques and practices in the group.
+
+I am gonna elaborate that in the following slides.
+
+I had to choose the most interesting content of my book so I am gonna focus on :
+- common mistakes of techleads
+- vision
+- how to build a dream team
+--
+
+== Common mistakes
 
 [quote, Winston Churchill]
 Success is walking from failure to failure while staying motivated.
+
+[NOTE.speaker]
+--
+This quote is interesting because we cannot really learn the techlead work at school.
+It's learned through practise.
+So my first advice would be keep practising.
+--
 
 === Develop 100% of your time
 
@@ -42,20 +77,18 @@ To code, or not to code, that is the question.
 
 [NOTE.speaker]
 --
-The percentage of code is not really important.
-It's about legitimacy.
 
-The tech lead will not be able to do his job effectively because his leadership will be called into question.
+When a techlead don't code he won't be able to do his job effectively because his leadership will be called into question.
+But it's the same if he code all the time.
+
+In short use your time wisely.
 
 - do not get on the critical path
 - leave time for the team
-- leave time for the vision
-
-In short use your time wisely.
+- leave time to build the vision
 --
 
 === Percentages
-
 
 |===
 |Task |Percentage
@@ -75,24 +108,27 @@ In short use your time wisely.
 
 [NOTE.speaker]
 --
-Coding :
-Motivate the team :
-Support / Organize the team :
-Innovation :
+These are the percentages I try to follow to be an effective techlead.
+- coding : it's to keep your legitimacy at the highest
+- motivate the team : it's to solve problems, reduce team difficulties and help to have a good athmosphere.
+- support and organize the team : it's to improve knowledge sharing and collaboration
+- innovation : it's to keep yourself and the team motivated
+
+These percentages are a guideline not a rule sometimes you will have to focus on only one aspect.
+But try to get back to these balanced percentages.
 --
 
-=== Handling the human side of the team
+=== Not handling the human side of the team
 
-As a coder you craft your tools. As a techlead you craft your team.
+As a coder you craft your tools. As a techlead you craft the team.
 
 [NOTE.speaker]
 --
-The human aspect is very important for the proper functioning of a team.
-Human conflict that arises in a team can destroy its productivity.
-They hinder the flow of decisions / works that allows the team to move in the same direction
-which negatively impacts the productivity of a team or even destroys it completely.
-
-The tech lead should use their observational skills to spot conflicts before they arise.
+You need to help resolve conflict in the team.
+Indeed if you don't, the motivation of the team will drop.
+Usually it's not the strength of the techlead but you need to work on it.
+Most of the time conflicts are easily resolved
+but sometimes it  does mean to separate from a team member for the good of the team.
 --
 
 === Be the only one to decide
@@ -101,8 +137,9 @@ image::boss-vs-leader-800x800.png[width=50%]
 
 [NOTE.speaker]
 --
-When you are the only one to code, you are not empowering your team.
-A team member who feels valued is much more efficient in his work.
+If the techlead is the only one to decide the other team members will disengage and the team spirit will suffer.
+So you need to help the team members reach a consensus by themselves.
+When a decision has not been reached by the team you need to decide and explain the reasons of your decision.
 --
 
 === Not guiding the team
@@ -116,7 +153,7 @@ Here is a non-exhaustive list of potential disorders that should be monitored:
 
 - keep a realistic scope of delivery
 - allow dubious managerial decisions to be imposed
-- be imposed on new members without ensuring that they integrate into the team
+- be forced to add new members in the team without ensuring that they integrate into the team
 --
 
 === Not handling team discussion
@@ -128,29 +165,33 @@ Here is a non-exhaustive list of potential disorders that should be monitored:
 
 [NOTE.speaker]
 --
-Long procrastination over the choice of a solution or a path must be resolved quickly, even if it means
-to have to return on the subject when new elements are brought to the attention of the team.
-
-- no choice
-- intuition
-
-But don't wait for complete information.
+Joke aside, long procrastination over the choice of a solution or a path must be resolved as quickly as possible,
+even if it means to have to return on the subject when new elements are brought to the attention of the team.
+Anyway you don't need to wait for complete information. Usually 70% of the complete information on a problem is enough to decide.
 --
 
 === Accuse team members of problems
 
-The tech lead is responsible for the team.
+The techlead is responsible for the team.
 
 [NOTE.speaker]
 --
-No matter what issues the team faces, as a leader, the tech lead is in charge.
-In any case, this is the mentality that the tech lead must have.
+No matter what issues the team faces, as a leader, the techlead is in charge. So he is responsible.
+In any case, this is the mentality that the techlead must have.
+
+That's it for the common mistakes, now let's talk about the vision.
 --
 
 == The vision
 
 [quote, John Carmack]
 A strong team can take any crazy vision and turn it into reality.
+
+[NOTE.speaker]
+--
+The vision is the glue that bring people to become a team.
+It needs to motivate the team members.
+--
 
 === Define your vision
 
@@ -162,13 +203,20 @@ What should you determine when you think about the vision for your team?
 - delivery objectives
 - team culture
 
+[NOTE.speaker]
+--
+Define the highest expectations possible on all the criteria.
+Determine a path with small steps a start to work on it.
+--
+
 === Requirement on quality
 
 Quality is essential, the rules need to be stronger over time.
 
 [NOTE.speaker]
 --
-You have to see how to move from the current situation to the objective and it's best to go there in successive steps with a distant target in mind.
+You have to see how to move from the current situation of the team to the objective and it's best to go there
+in successive steps with a distant target in mind.
 If you are lucky enough to hit the target, look for one even further.
 --
 
@@ -176,26 +224,38 @@ If you are lucky enough to hit the target, look for one even further.
 
 An exploited security breach can damage a company's reputation and financial health.
 
+[NOTE.speaker]
+--
+You need to fix everything related to security as soon as possible.
+So challenge regularly your code base with the security tools of your company and patch every issue.
+But it's a reactive way of doing things, so you are not in control.
+So be proactive and migrate to new version of the libraries you use.
+By example use a branch with snapshot version of the librairies you use and build that every day
+Work peacefully to resolve issues with the new version and when the it's released you are ready.
+--
+
 === Technological innovation
 
 The technological objectives are not there to have fun technically (ok may be a little...).
 
 [NOTE.speaker]
 --
-They have to serve needs back.
+The technological objectives have to serve needs back.
 For example, bringing in new technology to prepare a team for other developments that will come later.
+Be open minded to change.
 Try not to get locked into a technology to be able to evolve towards something better and avoid doing legacy stuff.
 
-Help recruitment.
+On the plus side, technical innovation helps recruitment.
 --
 
 === Delivery objectives
 
-On this point, we are in 2021, so my delivery goals are basic at all times and automatically.
+On this point, we are in 2021, so my delivery goals are basically at all times and automatically.
 
 [NOTE.speaker]
 --
-But that's not necessarily the case when I get somewhere so you have to work on this target and put all the tools in place to get there.
+But that's not necessarily the case when I get somewhere.
+So you have to work on this target and put all the tools in place to get there.
 --
 
 === Team culture
@@ -204,7 +264,12 @@ But that's not necessarily the case when I get somewhere so you have to work on 
 - the requirement
 - mobilization
 - improving and sharing knowledge
-- empower
+- empower team members
+
+[NOTE.speaker]
+--
+To improve team culture, I try to work on these items.
+--
 
 == Build a dream team
 
@@ -214,7 +279,7 @@ Great things in business are never done by one person. They're done by a team of
 === Prerequisites
 
 - have a salary that is in line with the responsibilities and the standard of living that the person desires
-- have a pace of work that allows to have a correct pro / personal balance
+- have a pace of work that allows to have a correct pro / personal life balance
 - have a favorable context
 - have the material to work
 
@@ -226,7 +291,7 @@ Don't look for the best coder. Look for the best fit in the team.
 --
 The golden rule for recruiting is not to recruit by default.
 I mean it's better to wait a long time for the right person than to have the wrong person.
-Sometimes adding someone to a team lowers their productivity forever.
+Sometimes adding someone to a team lowers its productivity forever.
 
 This point is sometimes difficult to convey to the management team, but you have to hold on.
 
@@ -236,17 +301,17 @@ Recruiting well facilitates the smooth running of the team.
 === Delegate
 
 All knowledge must be shared with any member of the team in order to facilitate the development of the team's skills.
-The point is not to have someone keep the knowledge to themselves.
+The point is not to have someone who keeps the knowledge to himself.
 Not even the techlead.
 
 [NOTE.speaker]
 --
-One of the aspects of knowledge transfer is also the delegation of the role of tech lead.
-Indeed, the tech lead should not be the bottleneck of the team.
-Backups must be found for tasks that require the attention of the tech lead.
+One of the aspects of knowledge transfer is also the delegation of the role of techlead.
+Indeed, the techlead should not be the bottleneck of the team.
+Backups must be found for tasks that require the attention of the techlead.
 
-On the other hand, the tech lead retains responsibility for the vision.
-He must therefore keep a check when you delegate to ensure that the course towards the vision holds good.
+On the other hand, the techlead retains responsibility for the vision.
+He must therefore keep a check when he delegates something to ensure that the course towards the vision holds good.
 This is done by gradually reducing the number of checks on things delegated.
 If the delegation does not work, do not hesitate to take the reins on the things delegated.
 --
@@ -276,49 +341,60 @@ You may do everything to have a good team culture. Sometimes, it's not enough.
 --
 If you don't do anything, you will loose legitimacy with the other members of the team.
 
-This action must be weighted according to the seniority of the person and what he may undergo in his personal life.
+Your action must be weighted according to the seniority of the person and what he may undergo in his personal life.
 
 Separating from a person does not necessarily mean that the person loses their job.
 The rest of the process is not up to you, but the person may be given a chance on another team in the company.
 It all depends on the culture of the company you are in.
+Regardless you need to prioritize the good of the team over one member.
 --
+
 
 === Give credit to team members
 
 It's important to give developers the credit they deserve.
 
-- let them make presentations / trainings on their expertise
+- let them make presentations or trainings on their expertise
 - ask their opinion
 
 [NOTE.speaker]
 --
-What I mean by that is that when a team member masters a subject as well, or even better than the tech lead, do not hesitate to put him forward.
-
-It goes through two things:
+What I mean by that is that when a team member masters a subject as well, or even better than the techlead,
+do not hesitate to put him forward.
 --
 
 === Advertise
 
-It's about making public what is attractive about the team.
+It's about making public what is attractive in the team.
+
 
 [NOTE.speaker]
 --
-In general, I prioritize two things:
-
-- the innovative technological stack (see the chapter on vision)
-- good team culture
-
-But the truth is, these two things help attract talent using the world's oldest advertising method:
-
-- word of mouth
-
-Who are the team's best ambassadors? And yes the developers themselves.
-
+In general, I prioritize two things, the innovative technological stack (remember what I said on the vision), good team culture
+But the truth is, these two things help attract talent using the world's oldest advertising method, word of mouth
+Who are the team's best ambassadors ? The developers themselves.
 In addition, with a strong team culture, they are committed to bring in developers who will integrate well into the team.
-
 --
 
-== Wrap-up
+=== Advertise
+
+It's about making public what is attractive in the team.
+
+
+[NOTE.speaker]
+--
+In general, I prioritize two things, the innovative technological stack (remember what I said on the vision), good team culture
+But the truth is, these two things help attract talent using the world's oldest advertising method, word of mouth
+Who are the team's best ambassadors ? And yes the developers themselves.
+In addition, with a strong team culture, they are committed to bring in developers who will integrate well into the team.
+--
+
+
+
+
+
+
+== Wrap up
 
 - Avoid common mistakes, but accept to do some
 - Define a good vision
@@ -344,6 +420,10 @@ In addition, with a strong team culture, they are committed to bring in develope
 
 [.thumb]
 image::ant.png[What do you use to build ?]
+
+=== Formation/audit of teams
+
+If you are interested by some coaching, training don't hesitate to contact me or visit https://www.lafabriquedigitowl.com[lafabriquedigitowl.com]
 
 
 
