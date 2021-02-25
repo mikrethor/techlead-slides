@@ -13,9 +13,11 @@ I hope that you will learn some tips today that will help you.
 
 == About Me
 
-Xavier Bouclet - Techlead at National Bank of Canada and one of the Montréal Jug leader
-
-https://mikrethor.github.io/blog/[Blog], Twitter : @XavierBouclet
+[%step]
+- Techlead at National Bank of Canada
+- Montréal Jug and Devoxx4kids co-organiser
+- https://mikrethor.github.io/blog/[https://mikrethor.github.io/blog]
+- @XavierBouclet
 
 [NOTE.speaker]
 --
@@ -59,7 +61,7 @@ I had to choose the most interesting content of my book so I am gonna focus on :
 - how to build a dream team
 --
 
-== Common mistakes
+== Common mistakes and solution
 
 [quote, Winston Churchill]
 Success is walking from failure to failure while staying motivated.
