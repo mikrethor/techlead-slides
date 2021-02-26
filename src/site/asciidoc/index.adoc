@@ -122,7 +122,7 @@ But try to get back to these balanced percentages.
 
 === Not handling the human side of the team
 
-As a coder you craft your tools. As a techlead you craft the team.
+As a coder you craft your tools. As a techlead you craft your team.
 
 [NOTE.speaker]
 --
@@ -186,7 +186,7 @@ That's it for the common mistakes, now let's talk about the vision.
 
 == The vision
 
-[quote, John Carmack]
+[quote, John Carmack - Oculus VR CTO]
 A strong team can take any crazy vision and turn it into reality.
 
 [NOTE.speaker]
@@ -208,7 +208,7 @@ What should you determine when you think about the vision for your team?
 [NOTE.speaker]
 --
 Define the highest expectations possible on all the criteria.
-Determine a path with small steps a start to work on it.
+Determine a path with small steps and start to work on it.
 --
 
 === Requirement on quality
@@ -238,7 +238,7 @@ Work peacefully to resolve issues with the new version and when the it's release
 
 === Technological innovation
 
-The technological objectives are not there to have fun technically (ok may be a little...).
+The technological objectives are not there to have fun technically (ok maybe a little...).
 
 [NOTE.speaker]
 --
@@ -280,10 +280,10 @@ Great things in business are never done by one person. They're done by a team of
 
 === Prerequisites
 
-- have a salary that is in line with the responsibilities and the standard of living that the person desires
-- have a pace of work that allows to have a correct pro / personal life balance
-- have a favorable context
-- have the material to work
+- a salary that is in line with the responsibilities and the standard of living that the person desires
+- a pace of work that allows to have a correct professional / personal life balance
+- a favorable context
+- the material to work
 
 === Recruitment
 
@@ -303,8 +303,11 @@ Recruiting well facilitates the smooth running of the team.
 === Delegate
 
 All knowledge must be shared with any member of the team in order to facilitate the development of the team's skills.
+
 The point is not to have someone who keeps the knowledge to himself.
+
 Not even the techlead.
+
 
 [NOTE.speaker]
 --
@@ -345,7 +348,7 @@ If you don't do anything, you will loose legitimacy with the other members of th
 
 Your action must be weighted according to the seniority of the person and what he may undergo in his personal life.
 
-Separating from a person does not necessarily mean that the person loses their job.
+Separating from a person does not necessarily mean that the person loses his job.
 The rest of the process is not up to you, but the person may be given a chance on another team in the company.
 It all depends on the culture of the company you are in.
 Regardless you need to prioritize the good of the team over one member.
